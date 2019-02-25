@@ -1,6 +1,6 @@
 # DiceGameES5
 
-Dice game
+Dice game (es5 only)
 
 
 ES5 only
